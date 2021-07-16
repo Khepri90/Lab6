@@ -106,7 +106,7 @@ vector<shared_ptr<Movie>> StreamingService::searchMoviePattern(const string& tit
     transform(title.begin(), title.end(), title.begin(), ::toupper);
     const regex txt_regex(title);
     vector<shared_ptr<Movie>> movieVector = this->movies->toVector();
-    for (int i= 0; i > this->movies->getCurrentSize(); i++){
+    for (int i= 0; i < this->movies->getCurrentSize(); i++){
          string movieTitle = movieVector[i]->getTitle();
          transform(movieTitle.begin(), movieTitle.end(), movieTitle.begin(), ::toupper);
          if(regex_match(movieTitle, txt_regex )){

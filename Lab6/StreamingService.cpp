@@ -33,12 +33,19 @@ bool StreamingService::addMovie(const string& title, int year){
      * When adding a movie, you add to the bag and if successfull you add to the Tree.
      */
 
-    bool added ;
+    bool added;
     shared_ptr<Movie> aMovie = make_shared<Movie>(title, year);
 
     /**
      * YOUR CODE HERE.
      */
+    movies->add(aMovie);
+    added = true;
+
+    if(added){
+        moviesIndex->add(aMovie);
+
+    }
     return added;
 }
 
@@ -95,6 +102,19 @@ vector<shared_ptr<Movie>> StreamingService::searchMoviePattern(const string& tit
     /**
      * YOUR CODE HERE
      */
+    string title = ".*"+titlePattern+".*";
+    transform(title.begin(), title.end(), title.begin(), ::toupper);
+    const regex txt_regex(title);
+    vector<shared_ptr<Movie>> movieVector = this->movies->toVector();
+    for (int i= 0; i > this->movies->getCurrentSize(); i++){
+         string movieTitle = movieVector[i]->getTitle();
+         transform(movieTitle.begin(), movieTitle.end(), movieTitle.begin(), ::toupper);
+         if(regex_match(movieTitle, txt_regex )){
+             foundMovies.push_back(movieVector[i]);
+         }
+    }
+
+
     return foundMovies;
 }
 

@@ -4,12 +4,14 @@
 **CSCI2421 - Summer 2021**
 
 ### **_Team Members Names:_**
-- Student #1: `complete here`
-- Student #2: `complete here`
+- Student #1: `Darius Deese`
+- Student #2: `Ray Khan`
 
 ### **Lab Status**
 ```text
 Describe **briefly** how complete your lab is, and how did you tested it.
+Our program compiles correctly, however, the search for movie title isn't working
+
 Does it work on CSEGrid?
 ```
 

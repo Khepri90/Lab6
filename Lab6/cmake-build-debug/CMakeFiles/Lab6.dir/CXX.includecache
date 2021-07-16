@@ -6,173 +6,173 @@
 
 #IncludeRegexTransform: 
 
-/Users/jpastorino/CLionProjects/Lab6/Actor.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/Actor.cpp
 Actor.h
-/Users/jpastorino/CLionProjects/Lab6/Actor.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Actor.h
 
-/Users/jpastorino/CLionProjects/Lab6/Actor.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Actor.h
 string
 -
 Actor.cpp
-/Users/jpastorino/CLionProjects/Lab6/Actor.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/Actor.cpp
 
-/Users/jpastorino/CLionProjects/Lab6/BagInterface.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BagInterface.h
 vector
 -
 
-/Users/jpastorino/CLionProjects/Lab6/BinaryNode.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryNode.cpp
 
-/Users/jpastorino/CLionProjects/Lab6/BinaryNode.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryNode.h
 memory
-/Users/jpastorino/CLionProjects/Lab6/memory
+C:/Users/dariu/Downloads/Lab6/Lab6/memory
 BinaryNode.cpp
-/Users/jpastorino/CLionProjects/Lab6/BinaryNode.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryNode.cpp
 
-/Users/jpastorino/CLionProjects/Lab6/BinaryNodeTree.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryNodeTree.cpp
 iostream
-/Users/jpastorino/CLionProjects/Lab6/iostream
+C:/Users/dariu/Downloads/Lab6/Lab6/iostream
 
-/Users/jpastorino/CLionProjects/Lab6/BinaryNodeTree.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryNodeTree.h
 memory
-/Users/jpastorino/CLionProjects/Lab6/memory
+C:/Users/dariu/Downloads/Lab6/Lab6/memory
 BinaryTreeInterface.h
-/Users/jpastorino/CLionProjects/Lab6/BinaryTreeInterface.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryTreeInterface.h
 BinaryNode.h
-/Users/jpastorino/CLionProjects/Lab6/BinaryNode.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryNode.h
 PrecondViolatedExcep.h
-/Users/jpastorino/CLionProjects/Lab6/PrecondViolatedExcep.h
+C:/Users/dariu/Downloads/Lab6/Lab6/PrecondViolatedExcep.h
 NotFoundException.h
-/Users/jpastorino/CLionProjects/Lab6/NotFoundException.h
+C:/Users/dariu/Downloads/Lab6/Lab6/NotFoundException.h
 BinaryNodeTree.cpp
-/Users/jpastorino/CLionProjects/Lab6/BinaryNodeTree.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryNodeTree.cpp
 
-/Users/jpastorino/CLionProjects/Lab6/BinarySearchTree.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/BinarySearchTree.cpp
 iostream
-/Users/jpastorino/CLionProjects/Lab6/iostream
+C:/Users/dariu/Downloads/Lab6/Lab6/iostream
 BinarySearchTree.h
-/Users/jpastorino/CLionProjects/Lab6/BinarySearchTree.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinarySearchTree.h
 
-/Users/jpastorino/CLionProjects/Lab6/BinarySearchTree.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinarySearchTree.h
 memory
-/Users/jpastorino/CLionProjects/Lab6/memory
+C:/Users/dariu/Downloads/Lab6/Lab6/memory
 BinaryTreeInterface.h
-/Users/jpastorino/CLionProjects/Lab6/BinaryTreeInterface.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryTreeInterface.h
 BinaryNode.h
-/Users/jpastorino/CLionProjects/Lab6/BinaryNode.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryNode.h
 BinaryNodeTree.h
-/Users/jpastorino/CLionProjects/Lab6/BinaryNodeTree.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryNodeTree.h
 NotFoundException.h
-/Users/jpastorino/CLionProjects/Lab6/NotFoundException.h
+C:/Users/dariu/Downloads/Lab6/Lab6/NotFoundException.h
 PrecondViolatedExcep.h
-/Users/jpastorino/CLionProjects/Lab6/PrecondViolatedExcep.h
+C:/Users/dariu/Downloads/Lab6/Lab6/PrecondViolatedExcep.h
 Comparator.h
-/Users/jpastorino/CLionProjects/Lab6/Comparator.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Comparator.h
 BinarySearchTree.cpp
-/Users/jpastorino/CLionProjects/Lab6/BinarySearchTree.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/BinarySearchTree.cpp
 
-/Users/jpastorino/CLionProjects/Lab6/BinaryTreeInterface.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinaryTreeInterface.h
 NotFoundException.h
-/Users/jpastorino/CLionProjects/Lab6/NotFoundException.h
+C:/Users/dariu/Downloads/Lab6/Lab6/NotFoundException.h
 
-/Users/jpastorino/CLionProjects/Lab6/Comparator.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Comparator.h
 memory
-/Users/jpastorino/CLionProjects/Lab6/memory
+C:/Users/dariu/Downloads/Lab6/Lab6/memory
 
-/Users/jpastorino/CLionProjects/Lab6/LinkedBag.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/LinkedBag.cpp
 LinkedBag.h
-/Users/jpastorino/CLionProjects/Lab6/LinkedBag.h
+C:/Users/dariu/Downloads/Lab6/Lab6/LinkedBag.h
 Node.h
-/Users/jpastorino/CLionProjects/Lab6/Node.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Node.h
 cstddef
 -
 
-/Users/jpastorino/CLionProjects/Lab6/LinkedBag.h
+C:/Users/dariu/Downloads/Lab6/Lab6/LinkedBag.h
 BagInterface.h
-/Users/jpastorino/CLionProjects/Lab6/BagInterface.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BagInterface.h
 Node.h
-/Users/jpastorino/CLionProjects/Lab6/Node.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Node.h
 LinkedBag.cpp
-/Users/jpastorino/CLionProjects/Lab6/LinkedBag.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/LinkedBag.cpp
 
-/Users/jpastorino/CLionProjects/Lab6/Movie.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/Movie.cpp
 iostream
-/Users/jpastorino/CLionProjects/Lab6/iostream
+C:/Users/dariu/Downloads/Lab6/Lab6/iostream
 
-/Users/jpastorino/CLionProjects/Lab6/Movie.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Movie.h
 string
-/Users/jpastorino/CLionProjects/Lab6/string
+C:/Users/dariu/Downloads/Lab6/Lab6/string
 memory
-/Users/jpastorino/CLionProjects/Lab6/memory
+C:/Users/dariu/Downloads/Lab6/Lab6/memory
 LinkedBag.h
-/Users/jpastorino/CLionProjects/Lab6/LinkedBag.h
+C:/Users/dariu/Downloads/Lab6/Lab6/LinkedBag.h
 Actor.h
-/Users/jpastorino/CLionProjects/Lab6/Actor.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Actor.h
 Movie.cpp
-/Users/jpastorino/CLionProjects/Lab6/Movie.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/Movie.cpp
 
-/Users/jpastorino/CLionProjects/Lab6/MovieComparator.h
+C:/Users/dariu/Downloads/Lab6/Lab6/MovieComparator.h
 memory
-/Users/jpastorino/CLionProjects/Lab6/memory
+C:/Users/dariu/Downloads/Lab6/Lab6/memory
 Movie.h
-/Users/jpastorino/CLionProjects/Lab6/Movie.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Movie.h
 Comparator.h
-/Users/jpastorino/CLionProjects/Lab6/Comparator.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Comparator.h
 
-/Users/jpastorino/CLionProjects/Lab6/Node.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/Node.cpp
 Node.h
-/Users/jpastorino/CLionProjects/Lab6/Node.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Node.h
 
-/Users/jpastorino/CLionProjects/Lab6/Node.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Node.h
 Node.cpp
-/Users/jpastorino/CLionProjects/Lab6/Node.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/Node.cpp
 
-/Users/jpastorino/CLionProjects/Lab6/NotFoundException.h
+C:/Users/dariu/Downloads/Lab6/Lab6/NotFoundException.h
 stdexcept
 -
 string
 -
 
-/Users/jpastorino/CLionProjects/Lab6/PrecondViolatedExcep.h
+C:/Users/dariu/Downloads/Lab6/Lab6/PrecondViolatedExcep.h
 stdexcept
 -
 string
 -
 
-/Users/jpastorino/CLionProjects/Lab6/StreamingService.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/StreamingService.cpp
 iostream
-/Users/jpastorino/CLionProjects/Lab6/iostream
+C:/Users/dariu/Downloads/Lab6/Lab6/iostream
 string
-/Users/jpastorino/CLionProjects/Lab6/string
+C:/Users/dariu/Downloads/Lab6/Lab6/string
 regex
-/Users/jpastorino/CLionProjects/Lab6/regex
+C:/Users/dariu/Downloads/Lab6/Lab6/regex
 LinkedBag.h
-/Users/jpastorino/CLionProjects/Lab6/LinkedBag.h
+C:/Users/dariu/Downloads/Lab6/Lab6/LinkedBag.h
 
-/Users/jpastorino/CLionProjects/Lab6/StreamingService.h
+C:/Users/dariu/Downloads/Lab6/Lab6/StreamingService.h
 string
-/Users/jpastorino/CLionProjects/Lab6/string
+C:/Users/dariu/Downloads/Lab6/Lab6/string
 memory
-/Users/jpastorino/CLionProjects/Lab6/memory
+C:/Users/dariu/Downloads/Lab6/Lab6/memory
 LinkedBag.h
-/Users/jpastorino/CLionProjects/Lab6/LinkedBag.h
+C:/Users/dariu/Downloads/Lab6/Lab6/LinkedBag.h
 BinarySearchTree.h
-/Users/jpastorino/CLionProjects/Lab6/BinarySearchTree.h
+C:/Users/dariu/Downloads/Lab6/Lab6/BinarySearchTree.h
 Movie.h
-/Users/jpastorino/CLionProjects/Lab6/Movie.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Movie.h
 Actor.h
-/Users/jpastorino/CLionProjects/Lab6/Actor.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Actor.h
 MovieComparator.h
-/Users/jpastorino/CLionProjects/Lab6/MovieComparator.h
+C:/Users/dariu/Downloads/Lab6/Lab6/MovieComparator.h
 StreamingService.cpp
-/Users/jpastorino/CLionProjects/Lab6/StreamingService.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/StreamingService.cpp
 
-/Users/jpastorino/CLionProjects/Lab6/main.cpp
+C:/Users/dariu/Downloads/Lab6/Lab6/main.cpp
 iostream
-/Users/jpastorino/CLionProjects/Lab6/iostream
+C:/Users/dariu/Downloads/Lab6/Lab6/iostream
 memory
-/Users/jpastorino/CLionProjects/Lab6/memory
+C:/Users/dariu/Downloads/Lab6/Lab6/memory
 Movie.h
-/Users/jpastorino/CLionProjects/Lab6/Movie.h
+C:/Users/dariu/Downloads/Lab6/Lab6/Movie.h
 StreamingService.h
-/Users/jpastorino/CLionProjects/Lab6/StreamingService.h
+C:/Users/dariu/Downloads/Lab6/Lab6/StreamingService.h
 

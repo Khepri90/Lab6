@@ -13,7 +13,7 @@ auto BinarySearchTree<ItemType>::placeNode( shared_ptr<BinaryNode<ItemType>> sub
         return newNodePtr;
     else {
         /** TODO #5: Change the item comparison to use the "aComparator" object in the current object. */
-        if (subTreePtr->getItem() > newNodePtr->getItem())
+        if (aComparator->equals(subTreePtr->getItem(), newNodePtr->getItem()))
             subTreePtr->setLeftChildPtr(placeNode(subTreePtr->getLeftChildPtr(), newNodePtr));
         else
             subTreePtr->setRightChildPtr(placeNode(subTreePtr->getRightChildPtr(), newNodePtr));
@@ -34,13 +34,13 @@ BinarySearchTree<ItemType>::removeValue(shared_ptr<BinaryNode<ItemType>> subTree
     }
     /** TODO #6: Change the item comparison to use the "aComparator" object in the current object.
      * Should update two lines of code in this function. */
-    if (subTreePtr->getItem() == target) { // Item is in the root of some subtree
+    if (aComparator->equals(subTreePtr->getItem(), target)) { // Item is in the root of some subtree
         subTreePtr = removeNode(subTreePtr);
         success = true;
         return subTreePtr;
     }
     else { //Not found, keep searching
-        if (subTreePtr->getItem() > target) { // Search the left subtree
+        if (aComparator->equals(subTreePtr->getItem(), target)) { // Search the left subtree
             subTreePtr->setLeftChildPtr(removeValue(subTreePtr->getLeftChildPtr(), target, success));
         }
         else {// Search the right subtree
@@ -107,10 +107,10 @@ auto BinarySearchTree<ItemType>::findNode(shared_ptr<BinaryNode<ItemType>> subTr
     // Uses a binary search
     /** TODO #7: Change the item comparison to use the "aComparator" object in the current object.
      * Change 2 lines of code in this function. */
-    if ((subTreePtr == nullptr) || (subTreePtr->getItem() == target))  // Not found OR Found (short circuit evaluation)
+    if ((subTreePtr == nullptr) || (aComparator->equals(subTreePtr->getItem(), target)))  // Not found OR Found (short circuit evaluation)
         return subTreePtr;
     else {
-        if (subTreePtr->getItem() > target)
+        if (aComparator->greaterThan(subTreePtr->getItem(), target))
             return findNode(subTreePtr->getLeftChildPtr(), target); // Search left subtree
         else
             return findNode(subTreePtr->getRightChildPtr(), target); // Search right subtree

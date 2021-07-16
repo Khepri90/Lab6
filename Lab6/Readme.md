@@ -10,11 +10,11 @@
 ### **Lab Status**
 ```text
 Describe **briefly** how complete your lab is, and how did you tested it.
-Our program compiles correctly, however, the search for movie title isn't working
+Our program compiles correctly, and works
 
 Does it work on CSEGrid?
 ```
-
+yes
 -----
 
 ## TODO:
